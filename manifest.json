@@ -1,0 +1,41 @@
+{
+    "name": "NoesIA",
+    "short_name": "NoesIA",
+    "start_url": "./",
+    "display": "standalone",
+    "background_color": "#16112E",
+    "theme_color": "#16112E",
+    "description": "Estudia con Nus: comprende el temario y llega al examen con todo encendido.",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/Icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-maskable-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icons/Icon-maskable-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ],
+    "id": "./",
+    "scope": "./",
+    "lang": "es",
+    "dir": "ltr",
+    "categories": [
+        "education"
+    ]
+}
